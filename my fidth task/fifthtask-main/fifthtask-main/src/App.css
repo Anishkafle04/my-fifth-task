@@ -1,0 +1,51 @@
+
+h1{
+  
+  text-align: center;
+}
+.username{
+  
+  outline: none;
+  height:18px;
+  width:210px;
+}
+.password{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  outline:none;
+  height:18px;
+  width:210px;
+}
+
+.cpassword{
+  margin-top: 20px;
+  outline:none;
+  height:18px;
+  width:210px;
+}
+
+.submit{
+  margin-top: 10px;
+  background-color: rgb(114, 252, 199);
+  height:20px;
+  width:90px;
+  font-size:bold;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+.submit:hover{
+  background-color: rgb(75, 242, 178); 
+}
+
+.div{
+  text-align: center;
+}
+
+body{
+  background-image: url("https://wallpapercave.com/wp/5IMSHl3.jpg");
+  background-size: cover;
+}
+
+.alert{
+  color:maroon;
+}
